@@ -12,7 +12,7 @@
 10. Better to book exam after morning hours from 12 to 4 pm hours interval. By this you will ensure that you have sleeped well and had a good breakfast and have enough time to get to the testing center.
 11. <u>**When exam starts, read all screen instructions carefully**</u>.
 12. You have approximately two minutes for each question. Don't overthink and spend too much time on one question. <u>**You have option to mark the question for review and go back to them after you went through all questions**</u> and use your remaining time to answer them.
-13. > <u>**Use elimination technique to find the right answer**</u>. Discard all the choices that are certainly wrong in your opinion. Then, for example if you have remaing two choices and they both seem valid answers to you, then keep in mind that the the most complex solution which requires a lot of efforts to set up with high probability is the wrong one. 
+13. > ⚠️ <u>**Use elimination technique to find the right answer**</u> ⚠️. Discard all the choices that are certainly wrong in your opinion. Then, for example if you have remaing two choices and they both seem valid answers to you, then keep in mind that the the most complex solution which requires a lot of efforts to set up with high probability is the wrong one. 
 14. You will not receive your exam result immediately. You will have to wait from 1 to 5 working days until your exam results will be published. More often it takes from 1 to 2 days to receive results via your email address specified during exam registration on PearsonVue
 15. After successfully passing the exam, <u>**AWS gives you 50% discount on your next exam**</u>. You can find the coupon code under the Benefits tab in your certification account:
 ![](https://i.imgur.com/iSwLk9z.png)
