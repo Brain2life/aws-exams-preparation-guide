@@ -8,3 +8,4 @@ These materials are considered as optional and can be used as supplementary mate
 4. [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all)
 5. [AWS ReInvent conference videos](https://www.youtube.com/results?search_query=aws+reinvent+)
 6. [AWS FAQs](https://aws.amazon.com/faqs/)
+7. [Awesome AWS](https://github.com/donnemartin/awesome-aws)
