@@ -12,7 +12,7 @@ The repository is organized into the following sections:
 - **[Additional Study Materials:](./study-materials/)** Additional list of optional learning resources to aid your preparation.
 - **[General Tips:](./general-tips/)** Valuable tips and tricks based on my personal experience that can help you maximize your exam performance and increase your chances of success.
 - [**FAQs:**](https://aws.amazon.com/faqs/) Answers to frequently asked questions about AWS services
-- **Blog:** A [personal blog](https://brain2life.hashnode.dev/) where I share my experiences, lessons learned, and insights gained throughout my DevOps Engineer career.
+- [**Blog:**](https://brain2life.hashnode.dev/) A personal blog where I share my experiences, lessons learned, and insights gained throughout my DevOps Engineer career.
 
 ## Disclaimer
 
