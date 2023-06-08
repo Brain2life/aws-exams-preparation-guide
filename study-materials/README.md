@@ -9,3 +9,4 @@ These materials are considered as optional and can be used as supplementary mate
 5. [AWS ReInvent conference videos](https://www.youtube.com/results?search_query=aws+reinvent+)
 6. [AWS FAQs](https://aws.amazon.com/faqs/)
 7. [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+8. [Freecodecamp AWS articles](https://www.freecodecamp.org/news/tag/aws/)
