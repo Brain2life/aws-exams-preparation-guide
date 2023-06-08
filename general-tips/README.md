@@ -19,3 +19,4 @@
 16. Other good discounts can be found from the announcements in the following local Kazakhstan telegram groups:
     - [https://t.me/aws_notes](https://t.me/aws_notes)
     - [https://t.me/devsecopskz](https://t.me/devsecopskz)
+    - [Subscribe to mailing list from Stephane Maarek's corporate site to get announcement on course discounts](https://courses.datacumulus.com/mailing-list/)
