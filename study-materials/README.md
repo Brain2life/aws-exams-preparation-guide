@@ -10,3 +10,6 @@ These materials are considered as optional and can be used as supplementary mate
 6. [AWS FAQs](https://aws.amazon.com/faqs/)
 7. [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 8. [Freecodecamp AWS articles](https://www.freecodecamp.org/news/tag/aws/)
+
+## AWS Labs
+1. [Getting started with AWS CodeArtifact via AWS CLI](https://brain2life.hashnode.dev/getting-started-with-aws-codeartifact-via-aws-cli#heading-overview)
