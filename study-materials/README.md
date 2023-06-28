@@ -13,3 +13,4 @@ These materials are considered as optional and can be used as supplementary mate
 
 ## AWS Labs
 1. [Getting started with AWS CodeArtifact via AWS CLI](https://brain2life.hashnode.dev/getting-started-with-aws-codeartifact-via-aws-cli#heading-overview)
+2. [Get started with AWS EC2 Image Builder](https://brain2life.hashnode.dev/get-started-with-aws-ec2-image-builder)
