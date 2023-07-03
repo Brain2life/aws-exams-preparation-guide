@@ -16,3 +16,4 @@ These materials are considered as optional and can be used as supplementary mate
 2. [Get started with AWS EC2 Image Builder](https://brain2life.hashnode.dev/get-started-with-aws-ec2-image-builder)
 3. [Get started with AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-aws-cloudformation)
 4. [YAML crash course](https://brain2life.hashnode.dev/yaml-crash-course)
+5. [Get started with cross-stack references in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-cross-stack-references-in-aws-cloudformation)
