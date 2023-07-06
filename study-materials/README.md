@@ -19,3 +19,4 @@ These materials are considered as optional and can be used as supplementary mate
 5. [Get started with cross-stack references in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-cross-stack-references-in-aws-cloudformation)
 6. [Get started with Conditionals in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-conditionals-in-aws-cloudformation)
 7. [Get started with Stack Policy in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-stack-policy-in-aws-cloudformation)
+8. [Get started with Nested Stacks in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-nested-stacks-in-aws-cloudformation)
