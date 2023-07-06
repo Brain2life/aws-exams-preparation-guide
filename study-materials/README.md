@@ -12,11 +12,13 @@ These materials are considered as optional and can be used as supplementary mate
 8. [Freecodecamp AWS articles](https://www.freecodecamp.org/news/tag/aws/)
 
 ## AWS Labs
-1. [Getting started with AWS CodeArtifact via AWS CLI](https://brain2life.hashnode.dev/getting-started-with-aws-codeartifact-via-aws-cli#heading-overview)
-2. [Get started with AWS EC2 Image Builder](https://brain2life.hashnode.dev/get-started-with-aws-ec2-image-builder)
-3. [Get started with AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-aws-cloudformation)
-4. [YAML crash course](https://brain2life.hashnode.dev/yaml-crash-course)
-5. [Get started with cross-stack references in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-cross-stack-references-in-aws-cloudformation)
-6. [Get started with Conditionals in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-conditionals-in-aws-cloudformation)
-7. [Get started with Stack Policy in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-stack-policy-in-aws-cloudformation)
-8. [Get started with Nested Stacks in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-nested-stacks-in-aws-cloudformation)
+- [Getting started with AWS CodeArtifact via AWS CLI](https://brain2life.hashnode.dev/getting-started-with-aws-codeartifact-via-aws-cli#heading-overview)
+- [Get started with AWS EC2 Image Builder](https://brain2life.hashnode.dev/get-started-with-aws-ec2-image-builder)
+- [YAML crash course](https://brain2life.hashnode.dev/yaml-crash-course)
+
+### CloudFormation
+- [Get started with AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-aws-cloudformation)
+- [Get started with cross-stack references in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-cross-stack-references-in-aws-cloudformation)
+- [Get started with Conditionals in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-conditionals-in-aws-cloudformation)
+- [Get started with Stack Policy in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-stack-policy-in-aws-cloudformation)
+- [Get started with Nested Stacks in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-nested-stacks-in-aws-cloudformation)
