@@ -26,3 +26,4 @@ These materials are considered as optional and can be used as supplementary mate
 - [DeletionPolicy in AWS CloudFormation](https://brain2life.hashnode.dev/deletionpolicy-in-aws-cloudformation)
 - [Termination Protection in AWS CloudFormation](https://brain2life.hashnode.dev/termination-protection-in-aws-cloudformation)
 - [EC2 User Data in AWS CloudFormation](https://brain2life.hashnode.dev/ec2-user-data-in-aws-cloudformation)
+- [Get started with AWS CloudFormation CFN Helper Scripts](https://brain2life.hashnode.dev/get-started-with-aws-cloudformation-cfn-helper-scripts)
