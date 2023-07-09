@@ -23,3 +23,4 @@ These materials are considered as optional and can be used as supplementary mate
 - [Get started with Stack Policy in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-stack-policy-in-aws-cloudformation)
 - [Get started with Nested Stacks in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-nested-stacks-in-aws-cloudformation)
 - [Get started with ChangeSets in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-changesets-in-aws-cloudformation)
+- [DeletionPolicy in AWS CloudFormation](https://brain2life.hashnode.dev/deletionpolicy-in-aws-cloudformation)
