@@ -30,3 +30,6 @@ These materials are considered as optional and can be used as supplementary mate
 - [Get started with SSM Parameter Store in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-ssm-parameter-store-in-aws-cloudformation)
 - [Get started with Dynamic References in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-dynamic-references-in-aws-cloudformation)
 - [Get started with AWS CloudFormation StackSets](https://brain2life.hashnode.dev/get-started-with-aws-cloudformation-stacksets)
+
+### Elastic Beanstalk
+- [Get started with AWS Elastic Beanstalk](https://brain2life.hashnode.dev/get-started-with-aws-elastic-beanstalk#heading-hands-on-lab-create-a-simple-web-application-with-elastic-beanstalk-via-management-console)
