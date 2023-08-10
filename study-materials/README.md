@@ -18,6 +18,7 @@ These materials are considered as optional and can be used as supplementary mate
 ### EC2
 - [How to launch a single EC2 instance via AWS CLI](https://brain2life.hashnode.dev/how-to-launch-a-single-ec2-instance-via-aws-cli)
 - [Get started with AWS EC2 Image Builder](https://brain2life.hashnode.dev/get-started-with-aws-ec2-image-builder)
+- [How to change the EC2 instance type](https://brain2life.hashnode.dev/how-to-change-the-ec2-instance-type)
 
 ### CloudFormation
 - [Get started with AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-aws-cloudformation)
