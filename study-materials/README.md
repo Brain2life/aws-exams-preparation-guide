@@ -20,6 +20,7 @@ These materials are considered as optional and can be used as supplementary mate
 - [Get started with AWS EC2 Image Builder](https://brain2life.hashnode.dev/get-started-with-aws-ec2-image-builder)
 - [How to change the EC2 instance type](https://brain2life.hashnode.dev/how-to-change-the-ec2-instance-type)
 - [Enhanced Networking in EC2](https://brain2life.hashnode.dev/enhanced-networking-in-ec2)
+- [EC2 Placement Groups](https://brain2life.hashnode.dev/ec2-placement-groups#heading-to-launch-instances-into-a-placement-group-using-the-console)
 
 ### CloudFormation
 - [Get started with AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-aws-cloudformation)
