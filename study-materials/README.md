@@ -24,6 +24,9 @@ These materials are considered as optional and can be used as supplementary mate
 - [Get started with EC2 Instance Connect](https://brain2life.hashnode.dev/get-started-with-ec2-instance-connect)
 - [Get started with EC2 Spot Instances and Spot Requests](https://brain2life.hashnode.dev/get-started-with-ec2-spot-instances-and-spot-requests#heading-note)
 
+### CloudWatch
+- [Get started with AWS Unified CloudWatch agent](https://brain2life.hashnode.dev/get-started-with-aws-unified-cloudwatch-agent)
+
 ### CloudFormation
 - [Get started with AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-aws-cloudformation)
 - [Get started with cross-stack references in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-cross-stack-references-in-aws-cloudformation)
