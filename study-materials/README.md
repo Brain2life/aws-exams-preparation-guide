@@ -2,14 +2,15 @@
 
 These materials are considered as optional and can be used as supplementary materials for the main certification preparation guides
 
-1. [https://learn.cantrill.io/](https://learn.cantrill.io/)
-2. [ACloud Guru AWS trainings](https://acloudguru.com/training-library/aws-cloud-training)
-3. [AWS Documentation](https://docs.aws.amazon.com/)
-4. [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all)
-5. [AWS ReInvent conference videos](https://www.youtube.com/results?search_query=aws+reinvent+)
-6. [AWS FAQs](https://aws.amazon.com/faqs/)
-7. [Awesome AWS](https://github.com/donnemartin/awesome-aws)
-8. [Freecodecamp AWS articles](https://www.freecodecamp.org/news/tag/aws/)
+1. [AWS RePost](https://repost.aws/)
+2. [https://learn.cantrill.io/](https://learn.cantrill.io/)
+3. [ACloud Guru AWS trainings](https://acloudguru.com/training-library/aws-cloud-training)
+4. [AWS Documentation](https://docs.aws.amazon.com/)
+5. [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all)
+6. [AWS ReInvent conference videos](https://www.youtube.com/results?search_query=aws+reinvent+)
+7. [AWS FAQs](https://aws.amazon.com/faqs/)
+8. [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+9. [Freecodecamp AWS articles](https://www.freecodecamp.org/news/tag/aws/)
 
 ## AWS Labs
 - [Getting started with AWS CodeArtifact via AWS CLI](https://brain2life.hashnode.dev/getting-started-with-aws-codeartifact-via-aws-cli#heading-overview)
