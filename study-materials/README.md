@@ -24,6 +24,7 @@ These materials are considered as optional and can be used as supplementary mate
 - [EC2 Placement Groups](https://brain2life.hashnode.dev/ec2-placement-groups#heading-to-launch-instances-into-a-placement-group-using-the-console)
 - [Get started with EC2 Instance Connect](https://brain2life.hashnode.dev/get-started-with-ec2-instance-connect)
 - [Get started with EC2 Spot Instances and Spot Requests](https://brain2life.hashnode.dev/get-started-with-ec2-spot-instances-and-spot-requests#heading-note)
+- [EC2 Hibernation](https://brain2life.hashnode.dev/ec2-hibernation)
 
 ### CloudWatch
 - [Get started with AWS Unified CloudWatch agent](https://brain2life.hashnode.dev/get-started-with-aws-unified-cloudwatch-agent)
