@@ -25,6 +25,7 @@ These materials are considered as optional and can be used as supplementary mate
 - [Get started with EC2 Instance Connect](https://brain2life.hashnode.dev/get-started-with-ec2-instance-connect)
 - [Get started with EC2 Spot Instances and Spot Requests](https://brain2life.hashnode.dev/get-started-with-ec2-spot-instances-and-spot-requests#heading-note)
 - [EC2 Hibernation](https://brain2life.hashnode.dev/ec2-hibernation)
+- [How to migrate EC2 instance between Availability Zones](https://brain2life.hashnode.dev/how-to-migrate-ec2-instance-between-availability-zones)
 
 ### AMI
 - [Get started with Amazon Machine Images (AMI)](https://brain2life.hashnode.dev/get-started-with-amazon-machine-images-ami)
