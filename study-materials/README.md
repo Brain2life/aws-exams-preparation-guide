@@ -30,6 +30,9 @@ These materials are considered as optional and can be used as supplementary mate
 ### AMI
 - [Get started with Amazon Machine Images (AMI)](https://brain2life.hashnode.dev/get-started-with-amazon-machine-images-ami)
 
+### AWS Systems Manager (SSM)
+- [Get started with AWS Systems Manager](https://brain2life.hashnode.dev/get-started-with-aws-systems-manager)
+
 ### CloudWatch
 - [Get started with AWS Unified CloudWatch agent](https://brain2life.hashnode.dev/get-started-with-aws-unified-cloudwatch-agent)
 
