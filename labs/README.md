@@ -23,6 +23,7 @@
 - [Get started with AWS Systems Manager](https://brain2life.hashnode.dev/get-started-with-aws-systems-manager)
 - [Get started with AWS SSM Resource Groups](https://brain2life.hashnode.dev/get-started-with-aws-ssm-resource-groups)
 - [Get started with AWS SSM Documents and SSM Run Command](https://brain2life.hashnode.dev/get-started-with-aws-ssm-documents-and-ssm-run-command)
+- [Get started with AWS SSM Automation](https://brain2life.hashnode.dev/get-started-with-aws-ssm-automation)
 
 ### CloudWatch
 - [Get started with AWS Unified CloudWatch agent](https://brain2life.hashnode.dev/get-started-with-aws-unified-cloudwatch-agent)
