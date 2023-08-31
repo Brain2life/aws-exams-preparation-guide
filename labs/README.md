@@ -14,6 +14,7 @@
 - [Get started with EC2 Spot Instances and Spot Requests](https://brain2life.hashnode.dev/get-started-with-ec2-spot-instances-and-spot-requests#heading-note)
 - [EC2 Hibernation](https://brain2life.hashnode.dev/ec2-hibernation)
 - [How to migrate EC2 instance between Availability Zones](https://brain2life.hashnode.dev/how-to-migrate-ec2-instance-between-availability-zones)
+- [EC2 Status Checks](https://brain2life.hashnode.dev/ec2-status-checks)
 
 ### AMI
 - [Get started with Amazon Machine Images (AMI)](https://brain2life.hashnode.dev/get-started-with-amazon-machine-images-ami)
