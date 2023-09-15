@@ -25,6 +25,7 @@
 - [Get started with AWS SSM Documents and SSM Run Command](https://brain2life.hashnode.dev/get-started-with-aws-ssm-documents-and-ssm-run-command)
 - [Get started with AWS SSM Automation](https://brain2life.hashnode.dev/get-started-with-aws-ssm-automation)
 - [Get started with AWS SSM Patch Manager](https://brain2life.hashnode.dev/get-started-with-aws-ssm-patch-manager)
+- [Get started with AWS SSM Session Manager](https://brain2life.hashnode.dev/get-started-with-aws-ssm-session-manager)
 
 ### CloudWatch
 - [Get started with AWS Unified CloudWatch agent](https://brain2life.hashnode.dev/get-started-with-aws-unified-cloudwatch-agent)
