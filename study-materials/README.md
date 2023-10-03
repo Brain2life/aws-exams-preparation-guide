@@ -11,3 +11,14 @@ These materials are considered as optional and can be used as supplementary mate
 7. [AWS FAQs](https://aws.amazon.com/faqs/)
 8. [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 9. [Freecodecamp AWS articles](https://www.freecodecamp.org/news/tag/aws/)
+
+## References
+1. Cloud Practitioner Essentials
+    - [AWS Glossary](https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html)
+    - [Overview of Amazon Web Services - AWS Whitepaper](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
+    - [AWS Fundamentals: Overview](https://aws.amazon.com/getting-started/cloud-essentials/)
+    - [What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
+    - [Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
+    - [Cloud computing with AWS](https://aws.amazon.com/what-is-aws/)
+2. EC2
+    - [Amazon EC2 instance types](https://aws.amazon.com/ec2/instance-types/)
