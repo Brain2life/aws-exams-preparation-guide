@@ -47,3 +47,6 @@
 
 ### Elastic Beanstalk
 - [Get started with AWS Elastic Beanstalk](https://brain2life.hashnode.dev/get-started-with-aws-elastic-beanstalk#heading-hands-on-lab-create-a-simple-web-application-with-elastic-beanstalk-via-management-console)
+
+### Load Balancers
+1. [Get started with AWS Network Load Balancer](https://brain2life.hashnode.dev/get-started-with-aws-network-load-balancer)
