@@ -50,3 +50,4 @@
 
 ### Load Balancers
 1. [Get started with AWS Network Load Balancer](https://brain2life.hashnode.dev/get-started-with-aws-network-load-balancer)
+2. [Get started with SSL server certificates for AWS Application Load Balancer](https://brain2life.hashnode.dev/get-started-with-ssl-server-certificates-for-aws-application-load-balancer)
