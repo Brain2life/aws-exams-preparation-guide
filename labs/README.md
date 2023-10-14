@@ -4,6 +4,9 @@
 - [Getting started with AWS CodeArtifact via AWS CLI](https://brain2life.hashnode.dev/getting-started-with-aws-codeartifact-via-aws-cli#heading-overview)
 - [YAML crash course](https://brain2life.hashnode.dev/yaml-crash-course)
 
+### IAM
+- [Identity and Resource based Policies in AWS](https://brain2life.hashnode.dev/identity-and-resource-based-policies-in-aws)
+
 ### EC2
 - [How to launch a single EC2 instance via AWS CLI](https://brain2life.hashnode.dev/how-to-launch-a-single-ec2-instance-via-aws-cli)
 - [Get started with AWS EC2 Image Builder](https://brain2life.hashnode.dev/get-started-with-aws-ec2-image-builder)
