@@ -22,3 +22,5 @@ These materials are considered as optional and can be used as supplementary mate
     - [Cloud computing with AWS](https://aws.amazon.com/what-is-aws/)
 2. EC2
     - [Amazon EC2 instance types](https://aws.amazon.com/ec2/instance-types/)
+3. Best practices
+    - [Best practice rules for Amazon Web Services by TrendMicro](https://www.trendmicro.com/cloudoneconformity/knowledge-base/aws/)
