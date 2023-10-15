@@ -24,3 +24,4 @@ These materials are considered as optional and can be used as supplementary mate
     - [Amazon EC2 instance types](https://aws.amazon.com/ec2/instance-types/)
 3. Best practices
     - [Best practice rules for Amazon Web Services by TrendMicro](https://www.trendmicro.com/cloudoneconformity/knowledge-base/aws/)
+    - [Security best practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
