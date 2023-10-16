@@ -18,6 +18,7 @@
 - [EC2 Hibernation](https://brain2life.hashnode.dev/ec2-hibernation)
 - [How to migrate EC2 instance between Availability Zones](https://brain2life.hashnode.dev/how-to-migrate-ec2-instance-between-availability-zones)
 - [EC2 Status Checks](https://brain2life.hashnode.dev/ec2-status-checks)
+- [Get started with Scaling Policies in AWS Auto Scaling Groups](https://brain2life.hashnode.dev/get-started-with-scaling-policies-in-aws-auto-scaling-groups)
 
 ### AMI
 - [Get started with Amazon Machine Images (AMI)](https://brain2life.hashnode.dev/get-started-with-amazon-machine-images-ami)
