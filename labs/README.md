@@ -54,6 +54,7 @@
 
 ### Lambda
 - [Get started with AWS Lambda](https://brain2life.hashnode.dev/get-started-with-aws-lambda)
+- [How to schedule AWS Lambda functions using EventBridge](https://brain2life.hashnode.dev/how-to-schedule-aws-lambda-functions-using-eventbridge)
 
 ### Load Balancers
 1. [Get started with AWS Network Load Balancer](https://brain2life.hashnode.dev/get-started-with-aws-network-load-balancer)
