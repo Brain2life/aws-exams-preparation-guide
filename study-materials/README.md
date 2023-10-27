@@ -27,3 +27,5 @@ These materials are considered as optional and can be used as supplementary mate
     - [Security best practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 4. Serverless
     - [AWS Serverless Land](https://serverlessland.com/)
+5. CDK
+    - [AWS CDK Workshop](https://cdkworkshop.com/)
