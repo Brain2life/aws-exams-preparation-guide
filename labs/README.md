@@ -49,6 +49,9 @@
 - [Get started with Dynamic References in AWS CloudFormation](https://brain2life.hashnode.dev/get-started-with-dynamic-references-in-aws-cloudformation)
 - [Get started with AWS CloudFormation StackSets](https://brain2life.hashnode.dev/get-started-with-aws-cloudformation-stacksets)
 
+### Elastic Block Store (EBS)
+1. [How to resize EBS Volume size for Amazon Linux 2](https://brain2life.hashnode.dev/how-to-resize-ebs-volume-size-for-amazon-linux-2)
+
 ### Elastic Beanstalk
 - [Get started with AWS Elastic Beanstalk](https://brain2life.hashnode.dev/get-started-with-aws-elastic-beanstalk#heading-hands-on-lab-create-a-simple-web-application-with-elastic-beanstalk-via-management-console)
 
