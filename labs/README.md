@@ -54,6 +54,7 @@
 2. [EBS Operations: Snaphshot creation and restoring EBS volume in different AZ](https://brain2life.hashnode.dev/ebs-operations-snaphshot-creation-and-restoring-ebs-volume-in-different-az)
 3. [Recycle Bin - AWS EBS Snapshot recovery feature](https://brain2life.hashnode.dev/recycle-bin-aws-ebs-snapshot-recovery-feature)
 4. [EBS Operations: Volume Migration](https://brain2life.hashnode.dev/ebs-operations-volume-migration)
+5. [EBS Operations: Volume Encryption](https://brain2life.hashnode.dev/ebs-operations-volume-encryption)
 
 ### Elastic Beanstalk
 - [Get started with AWS Elastic Beanstalk](https://brain2life.hashnode.dev/get-started-with-aws-elastic-beanstalk#heading-hands-on-lab-create-a-simple-web-application-with-elastic-beanstalk-via-management-console)
