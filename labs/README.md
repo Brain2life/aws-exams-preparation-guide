@@ -58,6 +58,7 @@
 
 ### Elastic File System (EFS)
 1. [Get started with Amazon Elastic File System](https://brain2life.hashnode.dev/get-started-with-amazon-elastic-file-system#heading-step-4-create-a-security-group)
+2. [Get started with Amazon EFS access points](https://brain2life.hashnode.dev/get-started-with-amazon-efs-access-points)
 
 ### Elastic Beanstalk
 - [Get started with AWS Elastic Beanstalk](https://brain2life.hashnode.dev/get-started-with-aws-elastic-beanstalk#heading-hands-on-lab-create-a-simple-web-application-with-elastic-beanstalk-via-management-console)
