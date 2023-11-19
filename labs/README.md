@@ -20,6 +20,9 @@
 - [EC2 Status Checks](https://brain2life.hashnode.dev/ec2-status-checks)
 - [Get started with Scaling Policies in AWS Auto Scaling Groups](https://brain2life.hashnode.dev/get-started-with-scaling-policies-in-aws-auto-scaling-groups)
 
+### Amazon Simple Storage Service (S3)
+- [Get started with Amazon S3 pre-signed URLs](https://brain2life.hashnode.dev/get-started-with-amazon-s3-pre-signed-urls)
+
 ### AMI
 - [Get started with Amazon Machine Images (AMI)](https://brain2life.hashnode.dev/get-started-with-amazon-machine-images-ami)
 
