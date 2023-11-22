@@ -22,6 +22,7 @@
 
 ### Amazon Simple Storage Service (S3)
 - [Get started with Amazon S3 pre-signed URLs](https://brain2life.hashnode.dev/get-started-with-amazon-s3-pre-signed-urls)
+- [Get started with Amazon S3 Cross-Region (CRR) and Same-Region (SRR) replication](https://brain2life.hashnode.dev/get-started-with-amazon-s3-cross-region-crr-and-same-region-srr-replication)
 
 ### AMI
 - [Get started with Amazon Machine Images (AMI)](https://brain2life.hashnode.dev/get-started-with-amazon-machine-images-ami)
