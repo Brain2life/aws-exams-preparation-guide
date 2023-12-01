@@ -27,6 +27,7 @@
 - [Get started with Amazon S3 Event Notifications](https://brain2life.hashnode.dev/get-started-with-amazon-s3-event-notifications)
 - [Get started with Amazon S3 Select](https://brain2life.hashnode.dev/get-started-with-amazon-s3-select)
 - [Get started with Amazon S3 Inventory](https://brain2life.hashnode.dev/get-started-with-amazon-s3-inventory)
+- [Get started with Amazon S3 Batch Operations](https://brain2life.hashnode.dev/get-started-with-amazon-s3-batch-operations)
 
 ### AMI
 - [Get started with Amazon Machine Images (AMI)](https://brain2life.hashnode.dev/get-started-with-amazon-machine-images-ami)
