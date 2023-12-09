@@ -29,6 +29,7 @@
 - [Get started with Amazon S3 Inventory](https://maxat-akbanov.com/get-started-with-amazon-s3-inventory)
 - [Get started with Amazon S3 Batch Operations](https://maxat-akbanov.com/get-started-with-amazon-s3-batch-operations)
 - [Get started with Amazon S3 Glacier](https://maxat-akbanov.com/get-started-with-amazon-s3-glacier)
+- [Get started with Amazon S3 Glacier Vault Lock](https://maxat-akbanov.com/get-started-with-amazon-s3-glacier-vault-lock)
 
 ### AMI
 - [Get started with Amazon Machine Images (AMI)](https://maxat-akbanov.com/get-started-with-amazon-machine-images-ami)
