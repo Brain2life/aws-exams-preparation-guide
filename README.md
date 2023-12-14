@@ -10,7 +10,7 @@ The repository is organized into the following sections:
 
 - **[Certification Guides:](./certification-guides/)** Detailed guides for different AWS certifications, including recommended study resources, and strategies to approach the exam.
 - **[Additional Study Materials:](./study-materials/)** Additional list of optional learning resources to aid your preparation.
-- **[AWS Hands-on Labs](./labs/)** Practice labs collected from a personal blog
+- **[AWS Hands-on Labs:](./labs/)** Practice labs collected from a personal blog
 - **[General Tips:](./general-tips/)** Valuable tips and tricks based on my personal experience that can help you maximize your exam performance and increase your chances of success.
 - [**FAQs:**](https://aws.amazon.com/faqs/) Answers to frequently asked questions about AWS services
 - [**Blog:**](https://brain2life.hashnode.dev/) A personal blog where I share my experiences, lessons learned, and insights gained throughout my DevOps Engineer career.
