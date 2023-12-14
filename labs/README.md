@@ -35,6 +35,9 @@
 ### AMI
 - [Get started with Amazon Machine Images (AMI)](https://maxat-akbanov.com/get-started-with-amazon-machine-images-ami)
 
+### Amazon Athena
+- [Get started with Amazon Athena](https://maxat-akbanov.com/get-started-with-amazon-athena)
+
 ### AWS Systems Manager (SSM)
 - [Get started with AWS Systems Manager](https://maxat-akbanov.com/get-started-with-aws-systems-manager)
 - [Get started with AWS SSM Resource Groups](https://maxat-akbanov.com/get-started-with-aws-ssm-resource-groups)
