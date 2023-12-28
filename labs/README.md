@@ -89,3 +89,6 @@
 ### Load Balancers
 1. [Get started with AWS Network Load Balancer](https://maxat-akbanov.com/get-started-with-aws-network-load-balancer)
 2. [Get started with SSL server certificates for AWS Application Load Balancer](https://maxat-akbanov.com/get-started-with-ssl-server-certificates-for-aws-application-load-balancer)
+
+### AWS Textract
+1. [Get started with AWS Textract](https://maxat-akbanov.com/get-started-with-aws-textract)
