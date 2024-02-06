@@ -21,6 +21,7 @@
 - [Get started with Scaling Policies in AWS Auto Scaling Groups](https://maxat-akbanov.com/get-started-with-scaling-policies-in-aws-auto-scaling-groups)
 
 ### Amazon Simple Storage Service (S3)
+- [Get started with AWS S3 Access Logging](https://maxat-akbanov.com/get-started-with-aws-s3-access-logging)
 - [Get started with AWS S3 MFA Delete](https://maxat-akbanov.com/get-started-with-aws-s3-mfa-delete)
 - [Get started with Amazon S3 pre-signed URLs](https://maxat-akbanov.com/get-started-with-amazon-s3-pre-signed-urls)
 - [Get started with Amazon S3 Cross-Region (CRR) and Same-Region (SRR) replication](https://maxat-akbanov.com/get-started-with-amazon-s3-cross-region-crr-and-same-region-srr-replication)
