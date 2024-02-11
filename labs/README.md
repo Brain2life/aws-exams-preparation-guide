@@ -96,3 +96,6 @@
 
 ### AWS Textract
 1. [Get started with AWS Textract](https://maxat-akbanov.com/get-started-with-aws-textract)
+
+### AWS Config
+1. [Get started with AWS Config](https://maxat-akbanov.com/get-started-with-aws-config)
