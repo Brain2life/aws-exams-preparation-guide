@@ -94,6 +94,9 @@
 1. [Get started with AWS Network Load Balancer](https://maxat-akbanov.com/get-started-with-aws-network-load-balancer)
 2. [Get started with SSL server certificates for AWS Application Load Balancer](https://maxat-akbanov.com/get-started-with-ssl-server-certificates-for-aws-application-load-balancer)
 
+### Route 53
+- [AWS Route 53 Alias vs CNAME Records](https://maxat-akbanov.com/aws-route-53-alias-vs-cname-records)
+
 ### AWS Textract
 1. [Get started with AWS Textract](https://maxat-akbanov.com/get-started-with-aws-textract)
 
