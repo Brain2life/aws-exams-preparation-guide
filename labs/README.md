@@ -97,6 +97,7 @@
 ### Route 53
 - [AWS Route 53 Alias vs CNAME Records](https://maxat-akbanov.com/aws-route-53-alias-vs-cname-records)
 - [AWS Route 53: Simple Routing Policy](https://maxat-akbanov.com/aws-route-53-simple-routing-policy)
+- [AWS Route 53: Weighted Routing Policy](https://maxat-akbanov.com/aws-route-53-weighted-routing-policy)
 
 ### AWS Textract
 1. [Get started with AWS Textract](https://maxat-akbanov.com/get-started-with-aws-textract)
