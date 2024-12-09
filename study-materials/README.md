@@ -31,3 +31,5 @@ These materials are considered as optional and can be used as supplementary mate
     - [AWS CDK Workshop](https://cdkworkshop.com/)
 6. Webinars
     - [AWS Power Hour: DevOps Engineer](https://pages.awscloud.com/GLOBAL-other-LS-AWS-Power-Hour-DevOps-Engineer-2023-reg.html)
+7. ECS (Elastic Container Service)
+    - [ECS Workshop](https://catalog.workshops.aws/ecs-immersion-day/en-US)
