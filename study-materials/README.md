@@ -33,3 +33,8 @@ These materials are considered as optional and can be used as supplementary mate
     - [AWS Power Hour: DevOps Engineer](https://pages.awscloud.com/GLOBAL-other-LS-AWS-Power-Hour-DevOps-Engineer-2023-reg.html)
 7. ECS (Elastic Container Service)
     - [ECS Workshop](https://catalog.workshops.aws/ecs-immersion-day/en-US)
+8. AWS Organization
+    - [AWS Blog: Best Practices for AWS Organizations Service Control Policies in a Multi-Account Environment](https://aws.amazon.com/blogs/industries/best-practices-for-aws-organizations-service-control-policies-in-a-multi-account-environment/)
+    - [AWS Blog: How to use service control policies to set permission guardrails across accounts in your AWS Organization](https://aws.amazon.com/blogs/security/how-to-use-service-control-policies-to-set-permission-guardrails-across-accounts-in-your-aws-organization/)
+    - [AWS Blog: Best Practices for Organizational Units with AWS Organizations](https://aws.amazon.com/blogs/mt/best-practices-for-organizational-units-with-aws-organizations/?org_product_gs_bp_OUBlog)
+    - [AWS Blog: Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/)
