@@ -105,3 +105,6 @@
 
 ### AWS Config
 1. [Get started with AWS Config](https://maxat-akbanov.com/get-started-with-aws-config)
+
+### AWS Organization
+1. [Introduction to Deny and Allow List Strategies in Managing Accounts in AWS Organizations](https://maxat-akbanov.com/introduction-to-deny-and-allow-list-strategies-in-managing-accounts-in-aws-organizations)
