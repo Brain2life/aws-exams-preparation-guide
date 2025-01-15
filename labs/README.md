@@ -7,6 +7,7 @@
 ### IAM
 - [Identity and Resource based Policies in AWS](https://maxat-akbanov.com/identity-and-resource-based-policies-in-aws)
 - [Permissions Boundary Policy in AWS](https://maxat-akbanov.com/permissions-boundary-policy-in-aws)
+- [AWS IAM Role Use Cases](https://maxat-akbanov.com/aws-iam-role-use-cases)
 
 ### EC2
 - [How to launch a single EC2 instance via AWS CLI](https://maxat-akbanov.com/how-to-launch-a-single-ec2-instance-via-aws-cli)
