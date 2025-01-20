@@ -110,3 +110,6 @@
 
 ### AWS Organizations
 1. [Introduction to Deny and Allow List Strategies in Managing Accounts in AWS Organizations](https://maxat-akbanov.com/introduction-to-deny-and-allow-list-strategies-in-managing-accounts-in-aws-organizations)
+
+### AWS Global Accelerator
+1. [Get started with AWS Global Accelerator](https://maxat-akbanov.com/get-started-with-aws-global-accelerator)
