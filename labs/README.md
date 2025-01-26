@@ -116,3 +116,6 @@
 
 ### AWS Virtual Private Cloud (VPC)
 1. [Get started with AWS VPC Endpoints](https://maxat-akbanov.com/get-started-with-aws-vpc-endpoints)
+
+### AWS Client VPN
+- [Get started with AWS VPN Client](https://maxat-akbanov.com/get-started-with-aws-vpn-client)
