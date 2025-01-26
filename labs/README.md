@@ -71,16 +71,16 @@
 - [Get started with AWS CloudFormation StackSets](https://maxat-akbanov.com/get-started-with-aws-cloudformation-stacksets)
 
 ### Elastic Block Store (EBS)
-1. [How to resize EBS Volume size for Amazon Linux 2](https://maxat-akbanov.com/how-to-resize-ebs-volume-size-for-amazon-linux-2)
-2. [EBS Operations: Snaphshot creation and restoring EBS volume in different AZ](https://maxat-akbanov.com/ebs-operations-snaphshot-creation-and-restoring-ebs-volume-in-different-az)
-3. [Recycle Bin - AWS EBS Snapshot recovery feature](https://maxat-akbanov.com/recycle-bin-aws-ebs-snapshot-recovery-feature)
-4. [EBS Operations: Volume Migration](https://maxat-akbanov.com/ebs-operations-volume-migration)
-5. [EBS Operations: Volume Encryption](https://maxat-akbanov.com/ebs-operations-volume-encryption)
+- [How to resize EBS Volume size for Amazon Linux 2](https://maxat-akbanov.com/how-to-resize-ebs-volume-size-for-amazon-linux-2)
+- [EBS Operations: Snaphshot creation and restoring EBS volume in different AZ](https://maxat-akbanov.com/ebs-operations-snaphshot-creation-and-restoring-ebs-volume-in-different-az)
+- [Recycle Bin - AWS EBS Snapshot recovery feature](https://maxat-akbanov.com/recycle-bin-aws-ebs-snapshot-recovery-feature)
+- [EBS Operations: Volume Migration](https://maxat-akbanov.com/ebs-operations-volume-migration)
+- [EBS Operations: Volume Encryption](https://maxat-akbanov.com/ebs-operations-volume-encryption)
 
 ### Elastic File System (EFS)
-1. [Get started with Amazon Elastic File System](https://maxat-akbanov.com/get-started-with-amazon-elastic-file-system#heading-step-4-create-a-security-group)
-2. [Get started with Amazon EFS access points](https://maxat-akbanov.com/get-started-with-amazon-efs-access-points)
-3. [AWS EFS migration with AWS DataSync](https://maxat-akbanov.com/aws-efs-migration-with-aws-datasync)
+- [Get started with Amazon Elastic File System](https://maxat-akbanov.com/get-started-with-amazon-elastic-file-system#heading-step-4-create-a-security-group)
+- [Get started with Amazon EFS access points](https://maxat-akbanov.com/get-started-with-amazon-efs-access-points)
+- [AWS EFS migration with AWS DataSync](https://maxat-akbanov.com/aws-efs-migration-with-aws-datasync)
 
 ### Elastic Beanstalk
 - [Get started with AWS Elastic Beanstalk](https://maxat-akbanov.com/get-started-with-aws-elastic-beanstalk#heading-hands-on-lab-create-a-simple-web-application-with-elastic-beanstalk-via-management-console)
@@ -93,8 +93,8 @@
 - [Execution context in AWS Lambda](https://maxat-akbanov.com/execution-context-in-aws-lambda)
 
 ### Load Balancers
-1. [Get started with AWS Network Load Balancer](https://maxat-akbanov.com/get-started-with-aws-network-load-balancer)
-2. [Get started with SSL server certificates for AWS Application Load Balancer](https://maxat-akbanov.com/get-started-with-ssl-server-certificates-for-aws-application-load-balancer)
+- [Get started with AWS Network Load Balancer](https://maxat-akbanov.com/get-started-with-aws-network-load-balancer)
+- [Get started with SSL server certificates for AWS Application Load Balancer](https://maxat-akbanov.com/get-started-with-ssl-server-certificates-for-aws-application-load-balancer)
 
 ### Route 53
 - [AWS Route 53 Alias vs CNAME Records](https://maxat-akbanov.com/aws-route-53-alias-vs-cname-records)
@@ -103,19 +103,19 @@
 - [AWS Route 53: Latency-based Routing Policy](https://maxat-akbanov.com/aws-route-53-latency-based-routing-policy)
 
 ### AWS Textract
-1. [Get started with AWS Textract](https://maxat-akbanov.com/get-started-with-aws-textract)
+- [Get started with AWS Textract](https://maxat-akbanov.com/get-started-with-aws-textract)
 
 ### AWS Config
-1. [Get started with AWS Config](https://maxat-akbanov.com/get-started-with-aws-config)
+- [Get started with AWS Config](https://maxat-akbanov.com/get-started-with-aws-config)
 
 ### AWS Organizations
-1. [Introduction to Deny and Allow List Strategies in Managing Accounts in AWS Organizations](https://maxat-akbanov.com/introduction-to-deny-and-allow-list-strategies-in-managing-accounts-in-aws-organizations)
+- [Introduction to Deny and Allow List Strategies in Managing Accounts in AWS Organizations](https://maxat-akbanov.com/introduction-to-deny-and-allow-list-strategies-in-managing-accounts-in-aws-organizations)
 
 ### AWS Global Accelerator
-1. [Get started with AWS Global Accelerator](https://maxat-akbanov.com/get-started-with-aws-global-accelerator)
+- [Get started with AWS Global Accelerator](https://maxat-akbanov.com/get-started-with-aws-global-accelerator)
 
 ### AWS Virtual Private Cloud (VPC)
-1. [Get started with AWS VPC Endpoints](https://maxat-akbanov.com/get-started-with-aws-vpc-endpoints)
+- [Get started with AWS VPC Endpoints](https://maxat-akbanov.com/get-started-with-aws-vpc-endpoints)
 
 ### AWS Client VPN
 - [Get started with AWS VPN Client](https://maxat-akbanov.com/get-started-with-aws-vpn-client)
