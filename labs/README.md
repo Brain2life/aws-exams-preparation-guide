@@ -119,3 +119,6 @@
 
 ### AWS Client VPN
 - [Get started with AWS VPN Client](https://maxat-akbanov.com/get-started-with-aws-vpn-client)
+
+### AWS Site-to-Site VPN
+- [AWS Site-to-Site VPN: Securely Connecting On-Premises to AWS](https://maxat-akbanov.com/aws-site-to-site-vpn-securely-connecting-on-premises-to-aws)
