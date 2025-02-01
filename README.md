@@ -2,9 +2,9 @@
 
 ![](https://i.imgur.com/h0clQzw.png)
 
-Welcome to the AWS Certifications Preparation Repository! This repository is dedicated to sharing my personal journey of passing various AWS certifications, providing valuable tips, learning materials, and a comprehensive guide to help you succeed in your own AWS certification journey.
+Welcome to the AWS Certifications Preparation Repository! This repository is based on my personal experience of passing various AWS certifications, providing valuable tips, learning materials, and a comprehensive guide to help you succeed in your own AWS certification journey.
 
-Happy learning and best of luck on your AWS certification journey!
+Happy learning and best of luck on your AWS certification journey! 🚀
 
 ## Repository Structure
 
