@@ -15,6 +15,7 @@ The repository is organized into the following sections:
 - **[AWS Hands-on Labs:](./labs/)** Practice labs collected from a personal blog
 - **[General Tips:](./general-tips/)** Valuable tips and tricks based on my personal experience that can help you maximize your exam performance and increase your chances of success
 - **[Cheatsheets:](./cheatsheets/)** Collection of cheatsheets
+- **[Mini notes & tips](./mini-notes-and-tips/)** Collection of small notes that can help you to choose the correct answer on the exam
 - [**FAQs:**](https://aws.amazon.com/faqs/) Answers to frequently asked questions about AWS services
 - [**Blog:**](https://maxat-akbanov.com/) A personal blog where I share my experiences, learned lessons, and insights gained throughout my DevOps Engineer career.
 
