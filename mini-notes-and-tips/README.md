@@ -27,6 +27,7 @@ These short notes and tips will help you to eliminate the wrong options and choo
 - If company is using an existing **Microsoft Active Directory on-premises** and it needs to **extend it to AWS** and enable **SSO**, then use **AWS Directory Service for Microsoft AD** to create secure Windows trusts between your on-premises Microsoft Active Directory domains and your AWS Microsoft AD domain in the AWS Cloud. 
 - If you need to **serve private content for a particular group of users in specific geographic location**, you can use **CloudFront signed URLs or signed cookies** with **S3 pre-signed URLs** and **disable access to S3 by using direct URLs**.
 - If you need to **implement cost-effective and efficient search feature**, then **use S3 for data storage, Amazon OpenSearch Service for query processing and use Elastic Beanstalk for app deployments**.
+- If you need **strong server side encryption in S3 with multi-factor encryption**, then use **Amazon S3-managed encryption keys (SSE-S3)**.
 
 ### Improvement for existing solutions
 - If you have existing solution with **CloudFront** with **partitioned data in AWS** and you want to **improve the load time**, then use **S3 bucket with partitioned data** and **CloudFront  distribution with access permissions to S3 and is restricted only to it**.
@@ -37,3 +38,6 @@ These short notes and tips will help you to eliminate the wrong options and choo
 - If you need to improve **application performance and keep it cost-effective** with **stateless application and consistent workload**, use **Reserved EC2 instances with auto-scaling group max number exceeding the current setup**.
 - If you need to **improve the image upload to S3 bucket from another region than the origin S3 bucket**, use **S3 Transfer Acceleration on the central S3 bucket**. 
 - If you need to **host static content of the website and serve it to different users based on their device type**, use **S3 static website with CloudFront distribution and Lamda@Edge function to parse User-Agent HTTP to serve appropriate content**. For more information, see [Customize at the edge with Lambda@Edge](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html)
+- If you need to **audit access log reports for services**, enable **AWS Cloud Trail**. **To query access log reports**, use **Amazon Athena**. 
+- If you need **automated patching of your on-premise and cloud based instances**, with **least amount of efforts**, use **AWS Systems Manager Patch Manager** with **AWS Systems Manager Maintenance Windows** to **automate patch schedule**.
+- If you need to **restrict access to your S3 bucket via CloudFront distribution**, use **create an Origin Access Control (OAC) and associate it with your CloudFront distribution**.
