@@ -10,12 +10,19 @@ These short notes and tips will help you to eliminate the wrong options and choo
 
 ## AWS Solutions Architect Pro
 
-### Migrations
+### Migrations and Modernizations
 
 - If you want to migrate applications and workloads from on-premises to the cloud in **cost-effective** way, then use - **[AWS Application Migration Service](https://tutorialsdojo.com/aws-application-migration-service/)**. It uses **lift and shift** strategy.
 - If you want to migrate workloads from on-premises to the cloud in a **faster way**, use **[AWS Direct Connect Service](https://tutorialsdojo.com/aws-direct-connect/)**. However, it can be **costly**. It uses **private network of AWS** to transfer data. 
 - Use **[AWS VM Import/Export](https://aws.amazon.com/ec2/vm-import/)** service for **cost-effective** migration of servers from on-premises to the cloud. As this service, do not charge for import/export operation, beyond standard charges for EC2 and S3 services. 
 - If you need to **enable security patch-management for an Oracle RAC cluster during migration from on-premises to AWS and backup in a least efforts manner**, use **automated EBS snapshot creation for EC2 by using Amazon Data Lifecycle Manager and use  AWS Systems Manager Patch Manager for patching**. **AWS RDS and Aurorora does not support Oracle RAC clusters**.
+- If you need to **migrate on-premises database on EC2 instances backed by EBS volumes following the most cost-effective and throughput oriented solution**, use **AWS Database Migrations service and Cold HDD sc1 EBS volumes for cost savings**.
+- If you want to have the **cheapest and archival storage solution, use S3 Glacier**.
+- Transfering **data from on-premises to S3 bucket via Snowball Edge device** can be **slow due to encryption overhead**. To **improve performance open multiple parallel copy jobs**.
+- If you need to **migrate workloads from on-premises to AWS managed services like AWS RDS and Elastic Beanstalk and in cost-effective way**, then use **replatform strategy**. For more information, see the following diagram:
+- If you need to **provide a self-service portal without complex details to your developers, data scientists, use AWS Service Catalog with SageMaker**.
+
+![](../img/sap_migration_paths.png)
 
 ### Desing a new solution
 - If you need a service to **orchestrate** your workloads and that is **serverless**, use [**Step Functions**](https://tutorialsdojo.com/aws-step-functions/) with **Lambda**. This allows to **minimize the operational overhead**.
@@ -28,7 +35,14 @@ These short notes and tips will help you to eliminate the wrong options and choo
 - If you need to **serve private content for a particular group of users in specific geographic location**, you can use **CloudFront signed URLs or signed cookies** with **S3 pre-signed URLs** and **disable access to S3 by using direct URLs**.
 - If you need to **implement cost-effective and efficient search feature**, then **use S3 for data storage, Amazon OpenSearch Service for query processing and use Elastic Beanstalk for app deployments**.
 - If you need **strong server side encryption in S3 with multi-factor encryption**, then use **Amazon S3-managed encryption keys (SSE-S3)**.
-
+- If you need to **transcribe (convert speech to text) voice call recordings**, use **Amazon Transcribe**. If you need to **move data to long term storage after 90 days, configure S3 lifecycle policy to move data to S3 Glacier**.
+- If you need to **collect sensor data, use AWS IoT Core Basic Ingest**. **To enrich data and avoid operational overhead**, use **AWS Data Firehose with Lambda**.
+- If you need **DDoS protection, control your traffic and secure your applications from common web exploits (SQL injection, JS XSS, etc) use AWS Shield and AWS WAF**.
+- If you **enable versioning on S3 bucket with files in there, these files will have an initial version `null`**. Then **with each update of files the versioning of files will change as well**.
+- If you need to **enable HTTPS for public website, use public certificate in ACM. Public ACM certificate can be used on Load Balancers. Private ACM certificates are used only on EC2 instances**. **Public ACM is free, while private ACM is charged on monthly basis**. 
+- If you need to **provide access to resources for a third-party AWS account, third-party account should create an External ID that will be given to the source account**. **Create an IAM role with the required access and put the External ID in the IAM role’s trust policy**.
+- If you need to **create a stateless and REST compliant service**, use **AWS API Gateway with Lambda proxy integration**. To **authenticate and securely process all requests**, use **AWS Cognito User Pools**.
+ 
 ### Improvement for existing solutions
 - If you have existing solution with **CloudFront** with **partitioned data in AWS** and you want to **improve the load time**, then use **S3 bucket with partitioned data** and **CloudFront  distribution with access permissions to S3 and is restricted only to it**.
 - If you need to **satisfy the RTO and RPO timeframes**, **improve the high availability, scalability and disaster resilience** for **database logs and trading transactions**, use **AWS Backup for AWS RDS with PITR (point-in-time recovery) option enabled and export logs to S3 with backups every 'n' minutes and cross-region replication enabled**. For more information, see [Disaster Recovery Demystified - RTO vs RPO](https://www.youtube.com/watch?v=wgvq9y8wwNQ).
@@ -41,3 +55,7 @@ These short notes and tips will help you to eliminate the wrong options and choo
 - If you need to **audit access log reports for services**, enable **AWS Cloud Trail**. **To query access log reports**, use **Amazon Athena**. 
 - If you need **automated patching of your on-premise and cloud based instances**, with **least amount of efforts**, use **AWS Systems Manager Patch Manager** with **AWS Systems Manager Maintenance Windows** to **automate patch schedule**.
 - If you need to **restrict access to your S3 bucket via CloudFront distribution**, use **create an Origin Access Control (OAC) and associate it with your CloudFront distribution**.
+- If you need to **track historical changes to the security configurations of your resources** and **compliance auditing**, use **AWS Config**.
+- If you need to **improve scalability and high-availability of stateless applications**, use **auto-scaling groups with ElastiCache Read replicas and AWS RDS mutli-AZ setup with read replicas**.
+- If you need to **discover, classify and protect personally identifiable information (PII) data use Amazon Macie**.
+- If you need to **stop, delete or terminate resources in separate AWS accounts**, then in **each of the accounts, generate cross-account roles that have full admin permissions while granting access for the master account**.
