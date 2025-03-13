@@ -42,6 +42,7 @@ These short notes and tips will help you to eliminate the wrong options and choo
 - If you need to **enable HTTPS for public website, use public certificate in ACM. Public ACM certificate can be used on Load Balancers. Private ACM certificates are used only on EC2 instances**. **Public ACM is free, while private ACM is charged on monthly basis**. 
 - If you need to **provide access to resources for a third-party AWS account, third-party account should create an External ID that will be given to the source account**. **Create an IAM role with the required access and put the External ID in the IAM role’s trust policy**.
 - If you need to **create a stateless and REST compliant service**, use **AWS API Gateway with Lambda proxy integration**. To **authenticate and securely process all requests**, use **AWS Cognito User Pools**.
+- If you want a **highly available solution in one region and with configured passive backup of running application in another region**, then use **EC2 Auto-Scaling Group** and **Route53 with failover routing policy**.
  
 ### Improvement for existing solutions
 - If you have existing solution with **CloudFront** with **partitioned data in AWS** and you want to **improve the load time**, then use **S3 bucket with partitioned data** and **CloudFront  distribution with access permissions to S3 and is restricted only to it**.
@@ -59,3 +60,4 @@ These short notes and tips will help you to eliminate the wrong options and choo
 - If you need to **improve scalability and high-availability of stateless applications**, use **auto-scaling groups with ElastiCache Read replicas and AWS RDS mutli-AZ setup with read replicas**.
 - If you need to **discover, classify and protect personally identifiable information (PII) data use Amazon Macie**.
 - If you need to **stop, delete or terminate resources in separate AWS accounts**, then in **each of the accounts, generate cross-account roles that have full admin permissions while granting access for the master account**.
+- If you need a **secure and better way of SSL processing** for the web servers and ensure that **application logs are securely stored**, use **CloudHSM to perform SSL transactions** and use **private S3 bucket with SSE encryption** enabled.
